@@ -1,3 +1,3 @@
-module github.com/harriott/HugoITJMy
+module github.com/harriott/Hugo-atiavda_one
 
 go 1.19
