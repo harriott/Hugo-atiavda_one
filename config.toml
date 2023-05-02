@@ -30,6 +30,6 @@ SectionPagesMenu = "main"
   favicon = ""
   site_logo = ""
   description = "Healthy living, reaching for the divine, joy!"
-  background_color_class = "bg-orange"
+  background_color_class = "bg-orange"  # https://tachyons.io/docs/themes/skins/
   recent_posts_number = 3
 
