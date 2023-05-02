@@ -1,8 +1,8 @@
 
-baseURL = "http://atiavda_one/"
+baseURL = "https://atiavda_one/"
 languageCode = "en-gb"
 title = "atiavda.one"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = "ananke"
 
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
